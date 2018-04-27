@@ -8,3 +8,6 @@ nombre = 'AAPL'
 inicial = '2017-9-1'
 final = '2018-12-31'
 ```
+inicial = name of stock, Apple Inc = APPLl
+iinicial = start date
+final = end date
