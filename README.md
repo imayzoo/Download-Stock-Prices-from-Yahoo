@@ -11,3 +11,13 @@ final = '2018-12-31'
 * nombre = name of stock, Apple Inc = APPL
 * inicial = start date
 * final = end date
+
+### Prerequisites
+libraries
+```
+requests
+re
+json
+time
+```
+
