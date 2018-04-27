@@ -1,6 +1,5 @@
 # Download Stock Prices from Yahoo
-This script downloads daily historical price data from Yahoo Finances, and makes a csv file.
-Since Yahoo changes its API is dificult to dowload data, this is a simple script that allows to dowload historical data automatically with  Python.
+This script downloads historical daily price data from Yahoo Finances, and makes a csv file. Since Yahoo changed its API is dificult to dowload data, this is a simple script that allows to dowload historical data automatically with Python.
 
 ## Example:
 You need to change the next values 
