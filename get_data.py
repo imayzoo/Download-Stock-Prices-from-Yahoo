@@ -2,8 +2,6 @@ import requests
 import re
 import json
 import time as time
-import pandas as pd
-import csv
 
 def inicio():
     nombre = 'BIMBOA.MX'
